@@ -72,3 +72,11 @@ input, button{
     cursor: pointer;
     transition: 0.4s;
 }
+
+#new-task-submit:hover{
+    opacity: 0.8;
+}
+
+#new-task-submit:active{
+    opacity: 0.6;
+}
